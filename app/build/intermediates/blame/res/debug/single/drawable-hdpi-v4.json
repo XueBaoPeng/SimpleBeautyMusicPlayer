@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_skin_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_skin_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_setting_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_setting_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_setting_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_setting_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_darkness_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_darkness_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_exit_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_exit_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_darkness_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_darkness_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_skin_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_skin_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_about_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_about_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_about_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_about_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_sleep_mode_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_sleep_mode_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_brightness_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_brightness_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_sleep_mode_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_sleep_mode_pressed.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_exit_default.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_exit_default.png"
+    },
+    {
+        "merged": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_brightness_pressed.png",
+        "source": "E:\\OpenProject\\SimpleBeautyMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_brightness_pressed.png"
+    }
+]
